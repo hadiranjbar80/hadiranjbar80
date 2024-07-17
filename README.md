@@ -2,7 +2,7 @@
 Wellcome to my github page, I'm a web developer intrested in .net technologies.
 here I share my projects that I do or I've done before.
 
-- 🔭 I'm currently working on a chapp app project @chatapp
+- 🔭 I'm currently working on a chapp app project that can be find on my github.
 
 <!--
 **hadiranjbar80/hadiranjbar80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
