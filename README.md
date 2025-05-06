@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm **Hadi Ranjbar**, a passionate web developer s
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: C#, JavaScript, HTML, CSS.
+- **Languages**: C#, JavaScript, Typescript, HTML, CSS.
 - **Frameworks**: ASP.NET Core, React.
 - **Tools**: Visual Studio, Docker.
 - **Databases**: SQL Server, Entity Framework, postgressSql.
@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm **Hadi Ranjbar**, a passionate web developer s
 ### 📫 How to Reach Me
 - [Email](mailto: ranjbar5772@gmail.com)
 - [LinkedIn(https://www.linkedin.com/in/mohammad-hadi-ranjbar-33563226a)
-- [Portfolio](https://your-portfolio-link.com)
 
 ---
 
