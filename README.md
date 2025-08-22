@@ -14,9 +14,8 @@ Welcome to my GitHub profile! I'm **Hadi Ranjbar**, a passionate web developer s
 ---
 
 ### 🤝 Collaboration & Help
-- I’m looking to collaborate on **open-source ASP.NET projects**.
-- I’m seeking mentorship or guidance in **cloud deployment and scaling**.
-
+- I’m currently seeking a programming work position or internship.
+- Open to opportunities in web development, especially with .NET technologies.
 ---
 
 ### 🛠️ Tech Stack
